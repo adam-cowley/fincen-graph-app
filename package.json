@@ -8,7 +8,15 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "d3": "^6.1.1",
+    "d3-chord": "^2.0.0",
+    "leaflet": "^1.7.1",
+    "mapbox-gl": "^1.12.0",
+    "scale-color-perceptual": "^1.1.2",
+    "vue": "^2.6.11",
+    "vue-neo4j": "^0.4.5",
+    "vue-router": "^3.4.3",
+    "vue2-leaflet": "^2.5.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
